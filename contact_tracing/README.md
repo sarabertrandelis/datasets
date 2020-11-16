@@ -2,7 +2,7 @@
 
 
 | Column name | Definition | 
-| ------------- |:-------------:| 
+| ------------- |-------------| 
 | state | Name of the State | 
 | stabr | State abbreviation | 
 | tot_pop | Total population in the State | 
