@@ -1,0 +1,15 @@
+PARCEL_ID, Numerical unique identifier for parcel
+SALE_DATE, Date of purchase
+SALETYPE, "Code for what real property was included in the sale of the property (1: Land only, 2: Building only, 3: Land and building, 4: Right of way or easement)"
+SALE_PRICE, "Actual amount of money, which was paid by the owner for the real property involved when the parcel  was purchased, rounded to the nearest one hundred dollars"
+VAL_USEABLE,Unknown
+NBR_PARCELS, Number of parcels
+MAP_PROVIDED,Unknown
+ARMS_LENGTH, "Whether or not the sale represents an arms-length transaction. "When value is 1 the transaction is arms-length, when is 0 it is not arms-length"
+TIMESTAMP,Unknown
+NET_SALE_PRICE,Net sale price
+ROLL_YR, Year
+OWNER_ID,Owner unique identifier
+ROLL_YR,Roll year
+PHYS_INSP_DATE,Physical inspection date
+PRINT_KEY,Parcel identification code

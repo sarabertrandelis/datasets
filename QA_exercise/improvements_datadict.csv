@@ -1,0 +1,12 @@
+PARCEL_ID,Numerical unique identifier for parcel
+SITE_NBR,Numerical unique identifier for site
+IMPROVE_NBR,Improvement number
+INV_DATE,Sale date
+STRUCTURE_CODE,Code of the structure that affects the improvement
+DIM1,Dimension one
+DIM2,Dimension two
+YR_BUILT,Year built
+GRADE,Quality of the improvement
+ROLL_YR,Roll year
+SALEPARCEL_IND,"S means there was a sale happening the year previous to the noted roll year"
+IMPROV_SQFT,Square footage of the improvement

@@ -1,0 +1,6 @@
+PARCEL_ID,Numerical unique identifier for parcel
+ROLL_YR,Roll year
+LAND_AV,Land assessed value
+TOTAL_AV,Total assessed value
+TIMESTAMP,Unknown
+FULL_MARKET_VALUE,Assessed market value
